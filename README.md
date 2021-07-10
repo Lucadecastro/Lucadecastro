@@ -1,8 +1,15 @@
 ### Welcome to meu Github! 👋
  <div>
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=renansouzarodrigues&count_private=true&theme=default&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzarodrigues&layout=compact&theme=default)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenanSouzaRodrigues)
+
   <a href="https://github.com/Lucadecastro">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lucadecastro&count_private=true&theme=dark&show_icons=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucadecastro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucadecastro&layout=compact&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucadecastro&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
